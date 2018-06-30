@@ -1,0 +1,27 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "simple offline currency converter",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ./ -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devamaz/Currency-Converter.git"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "offline"
+  ],
+  "author": "devamaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devamaz/Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/devamaz/Currency-Converter#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
